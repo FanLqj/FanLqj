@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FanLqj
-- 👀 I’m interested in ACG
+- 👀 I’m interested 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fanlqj@ihep.ac.cn
